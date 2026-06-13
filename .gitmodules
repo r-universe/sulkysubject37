@@ -5,9 +5,6 @@
 [submodule "BioMoR"]
 	path = BioMoR
 	url = https://github.com/sulkysubject37/biomor
-[submodule "annotaR"]
-	path = annotaR
-	url = https://github.com/sulkysubject37/annotar
 [submodule "resLIK"]
 	path = resLIK
 	url = https://github.com/cran/resLIK
